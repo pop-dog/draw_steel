@@ -1,11 +1,21 @@
 # Draw Steel 
 
-## [Book 1: Heros](https://1drv.ms/b/c/067cb0a1ce50c175/EV9F1dQwkidIpoHA2woUuJEB_QG1XpRm-6hJN5rJKEIbtA?e=942hcs)
+## Resources
+**Core**
+* [Book 1: Heros](https://1drv.ms/b/c/067cb0a1ce50c175/EV9F1dQwkidIpoHA2woUuJEB_QG1XpRm-6hJN5rJKEIbtA?e=942hcs)
+* [Steel Compendium](https://steelcompendium.io/compendium/main/)
+* [Hero Sheet](https://files.mcdmproductions.com/DrawSteel/DrawSteel_CharacterSheetBlank.pdf)
+
+**Other resources**
+* [Digital Hero Creator Tool](https://andyaiken.github.io/forgesteel/#/hero)
+* [Draw Steel Crash Course](https://docs.google.com/presentation/d/1guRiOV10vh9rhc4ZVQ7GCaWyPgBxKUkFzRyJNceGcU4)
+
+---
 
 ## What is it?
 > Draw Steel is a tabletop RPG designed for games about heroic characters battling monsters in a fantasy setting.
 
-## **How is it different from D&D/Pathfinder?**
+### **How is it different from D&D/Pathfinder?**
 If I were to give a 1-sentence answer to **What is D&D?**, it would be:
 > D&D is a *medieval fantasy* tabletop RPG about *simulating* an adventurer.
 
